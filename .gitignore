@@ -1,7 +1,9 @@
 jdk/
 node_modules/
 bin/
+android/.gradle/
 android/app/build/
+android/local.properties
 .idea/
 temp_cache/
 *.apk
