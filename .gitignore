@@ -1,0 +1,9 @@
+jdk/
+node_modules/
+bin/
+android/app/build/
+.idea/
+temp_cache/
+*.apk
+*.exe
+*.dll
